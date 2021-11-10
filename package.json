@@ -1,0 +1,16 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@sanity/client": "^2.21.10",
+    "@sanity/image-url": "^1.0.1",
+    "next": "^12.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
